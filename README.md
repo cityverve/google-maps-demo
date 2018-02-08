@@ -14,7 +14,7 @@ Click [here](https://developers.google.com/maps/) to go to the Google Maps devel
 
 In order to get this demo working for yourself, you simply need to clone the repo and host the files within your web-server of choice.
 
-Before it will work, however, you need to make **two modification**:
+Before it will work, however, you need to make **two modifications**:
 
 ### CityVerve API Key
 
