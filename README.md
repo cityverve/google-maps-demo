@@ -31,7 +31,7 @@ You need to replace the string **YOUR-KEY-HERE** with your own personal _CityVer
 Towards the bottom of the HTML file, you will find the following line of markup:
 
 ```html
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR-KEY-HERE&callback=initialise" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR-KEY-HERE&callback=initialise" async defer></script>
 ```
 
 You need to replace the string **YOUR-KEY-HERE** with your own personal _Google Maps API key_. You can get a key (for free) at the [Google Maps Developer Portal](https://developers.google.com/maps/).
