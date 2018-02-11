@@ -109,7 +109,7 @@ function initialise ()
     {
         entities.forEach (function (entity)
         {
-            httpGet (entity.id, function (items)
+            httpGet (entity.uri, function (items)
             {
                 var item = items [0];
 
